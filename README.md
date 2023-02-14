@@ -19,7 +19,7 @@ For image(.png, .gif or .mp4)
     Ps:Somtimes, we need to down sample the input image due to memory space.
 
     Step3
-    Go to the folder “result”, there is the cartoonized image.
+    Go to the folder “cartoon_result”, there is the cartoonized image.
     .png → .png
     .gif → .gif
     .mp4 → .gif
@@ -42,7 +42,7 @@ For webcam(real time)
     You can key in 'q' or 'c' when running the program to exit or capture the image to .png, respectively.
 
     Step3
-    Go to the folder “result”, there is the cartoonized image.
+    Go to the folder “cartoon_result”, there is the cartoonized image.
     webcam → .gif
 
 reference
