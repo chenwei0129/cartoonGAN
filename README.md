@@ -25,6 +25,7 @@ For image(.png, .gif or .mp4)
 
 
 For webcam(real time)
+
     Step1
     Connect the USB webcam to computer.
 
