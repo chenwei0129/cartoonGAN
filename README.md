@@ -37,6 +37,7 @@ For webcam(real time)
     Ex:python cartoonGAN.py --model_number 0 --down_size 1
 
     Ps:You need to choose the model number according to the image or environment for the better result.
+    Ps:Somtimes, we need to down sample the input image due to memory space.
     
     You can key in 'q' or 'c' when running the program to exit or capture the image to .png, respectively.
 
