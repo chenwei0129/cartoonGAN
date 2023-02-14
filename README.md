@@ -1,6 +1,6 @@
 # cartoonGAN
 
-This is the cartoonGAN[1], which can cartoonize any image, even webcam(real time), to cartoon style.
+This is the cartoonGAN[1] implement, which can cartoonize any image, even webcam(real time), to cartoon style.
 
 
 
