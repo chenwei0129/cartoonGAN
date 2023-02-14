@@ -13,7 +13,7 @@ For image(.png, .gif or .mp4)
     Input the command.
     Python cartoonGAN.py --file_name {your image name} -–model_number {choose the appropriate model}
 
-    Ex: python cartoonGAN.py --file_name test0.jpg --model_number 0
+    Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0
 
     Ps:You need to choose the model number according to the image or environment for the better result.
 
@@ -32,7 +32,7 @@ For webcam(real time)
     Input the command.
     Python cartoonGAN.py --model_number {choose the appropriate model}
 
-    Ex: python cartoonGAN.py --model_number 0
+    Ex:python cartoonGAN.py --model_number 0
 
     Ps:You need to choose the model number according to the image or environment for the better result.
 
