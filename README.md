@@ -11,7 +11,7 @@ For image(.png, .gif or .mp4)
 
     Step2
     Input the command.
-    Python cartoonGAN.py --file_name {your image name} –model_number {choose the appropriate model}
+    Python cartoonGAN.py --file_name {your image name} -–model_number {choose the appropriate model}
 
     Ex: python cartoonGAN.py --file_name test0.jpg --model_number 0
 
