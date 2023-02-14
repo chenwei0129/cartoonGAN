@@ -11,11 +11,12 @@ For image(.png, .gif or .mp4)
 
     Step2
     Input the command.
-    Python cartoonGAN.py --file_name {your image name} -–model_number {choose the appropriate model}
+    Python cartoonGAN.py --file_name {your image name} -–model_number {choose the appropriate model} --down_size {x for width/x and height/x}
 
-    Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0
+    Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0 --down_size 2
 
     Ps:You need to choose the model number according to the image or environment for the better result.
+    Ps:Somtimes, we need to down sample the input image due to memory space.
 
     Step3
     Go to the folder “result”, there is the cartoonized image.
@@ -31,9 +32,9 @@ For webcam(real time)
 
     Step2
     Input the command.
-    Python cartoonGAN.py --model_number {choose the appropriate model}
+    Python cartoonGAN.py --model_number {choose the appropriate model} --down_size {x for width/x and height/x}
 
-    Ex:python cartoonGAN.py --model_number 0
+    Ex:python cartoonGAN.py --model_number 0 --down_size 1
 
     Ps:You need to choose the model number according to the image or environment for the better result.
 
