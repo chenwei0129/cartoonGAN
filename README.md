@@ -15,8 +15,8 @@ For image(png、gif or mp4)
 
     Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0 --down_size 2
 
-    Ps:There are 8 weights(0~7) in folder "models", you need to choose the model number according to the image or environment for the better result.
-    Ps:Somtimes, we need to down sample the input image due to memory space.
+    Ps:There are 8 weights(0~7) in the folder "models", you need to choose the model number according to the image or environment for the better result.
+    Ps:Somtimes, we need to down sample the input image due to the memory space.
 
     Step3
     Go to the folder “cartoon_result”, there is the cartoonized image.
@@ -28,7 +28,7 @@ For image(png、gif or mp4)
 For webcam(real time)
 
     Step1
-    Connect the USB webcam to computer.
+    Connect the USB webcam to your computer.
 
     Step2
     Input the command.
@@ -36,15 +36,16 @@ For webcam(real time)
 
     Ex:python cartoonGAN.py --model_number 0 --down_size 1
 
-    Ps:There are 8 weights(0~7) in folder "models", you need to choose the model number according to the image or environment for the better result.
-    Ps:Somtimes, we need to down sample the input image due to memory space.
+    Ps:There are 8 weights(0~7) in the folder "models", you need to choose the model number according to the image or environment for the better result.
+    Ps:Somtimes, we need to down sample the input image due to the memory space.
     
-    You can key in 'q' or 'c' when running the program to exit or capture the image to .png, respectively.
+    **You can key in 'q' or 'c' when running the program to exit or capture the image to .png, respectively.**
+    **You can capture image again and again.**
 
     Step3
     Go to the folder “cartoon_result”, there is the cartoonized image.
     webcam → .gif
-    Go to the folder “capture”, there is the cartoonized image.
+    Go to the folder “capture”, there are the cartoonized images.
     webcam frame → .png
 
 
