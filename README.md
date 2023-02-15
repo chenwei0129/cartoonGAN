@@ -47,6 +47,35 @@ For webcam(real time)
     Go to the folder “capture”, there is the cartoonized image.
     webcam frame → .png
 
+
+Folder "capture"
+
+    When you use USB webcam, you can key in 'c' to capture the image, and it will be in the folder.
+
+Folder "cartoonGAN_generator"
+
+    The architecture of cartoonGAN is in the folder.
+
+Folder "cartoon_png" and "gif2png/1"
+
+    When you process gif, there are some steps to finish.
+    
+    Step1
+    
+        Transfer the input gif to many png images in the folder "gif2png/1.
+    
+    Step2
+    
+        Use cartonGAN to cartoonize the images in "gif2png/1", and put them in the folder "cartoon_png".
+    
+    Step3
+    
+        Transfer the images in "cartoon_png" to a gif, and put it in "cartoon_result".
+
+Folder "cartoon_result"
+
+    For any type of input image, the result of cartoonized image(.png or .gif) will be in the folder.
+
 reference
 
     [1]Chen, Y., Lai, Y.K., Liu, Y.J.: CartoonGAN: generative adversarial networks for photo cartoonization. In: Proceedings 31st Meeting of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, United States, pp. 9465–9474 (2018)
