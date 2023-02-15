@@ -4,7 +4,7 @@ This is the cartoonGAN[1] implement, which can cartoonize any image, even webcam
 
 
 
-For image(.png, .gif or .mp4)
+For image(png、gif or mp4)
 
     Step1
     Put the image you want to cartoonize to the folder “image”.
