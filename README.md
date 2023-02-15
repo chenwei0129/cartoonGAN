@@ -76,6 +76,14 @@ Folder "cartoon_result"
 
     For any type of input image, the result of cartoonized image(.png or .gif) will be in the folder.
 
+Folder "function"
+
+    All program about processing image(png, gif, mp4 and webcam) are in the folder.
+
+Folder "image"
+
+    All the input image should be there.
+
 reference
 
     [1]Chen, Y., Lai, Y.K., Liu, Y.J.: CartoonGAN: generative adversarial networks for photo cartoonization. In: Proceedings 31st Meeting of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, United States, pp. 9465–9474 (2018)
