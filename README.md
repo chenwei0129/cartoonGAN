@@ -44,6 +44,8 @@ For webcam(real time)
     Step3
     Go to the folder “cartoon_result”, there is the cartoonized image.
     webcam → .gif
+    Go to the folder “capture”, there is the cartoonized image.
+    webcam frame → .png
 
 reference
 
