@@ -15,7 +15,7 @@ For image(.png, .gif or .mp4)
 
     Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0 --down_size 2
 
-    Ps:There are many weight in folder "models", you need to choose the model number according to the image or environment for the better result.
+    Ps:There are 8 weights(0~7) in folder "models", you need to choose the model number according to the image or environment for the better result.
     Ps:Somtimes, we need to down sample the input image due to memory space.
 
     Step3
@@ -36,7 +36,7 @@ For webcam(real time)
 
     Ex:python cartoonGAN.py --model_number 0 --down_size 1
 
-    Ps:There are many weight in folder "models", you need to choose the model number according to the image or environment for the better result.
+    Ps:There are 8 weights(0~7) in folder "models", you need to choose the model number according to the image or environment for the better result.
     Ps:Somtimes, we need to down sample the input image due to memory space.
     
     You can key in 'q' or 'c' when running the program to exit or capture the image to .png, respectively.
