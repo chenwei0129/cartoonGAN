@@ -20,7 +20,7 @@
         Go to the folder “cartoon_result”, there is the cartoonized image.
             .png → .png
             .gif → .gif
-            .mp4 → .gif
+            .mp4 → .mp4
 
     Ps:There are 8 weights(0~7) in the folder "models", you need to choose the model number according to the image or environment for the better result.
        It is recommended to use number 1 or 3 (model_1.pth or model_3.pth).
@@ -43,7 +43,7 @@
     Step3
     
         Go to the folder “cartoon_result”, there is the cartoonized image.
-            webcam → .gif
+            webcam → .mp4
         Go to the folder “capture”, there are the cartoonized images.
             webcam frame → .png
 
