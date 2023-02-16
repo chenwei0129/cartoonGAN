@@ -81,7 +81,7 @@
 
 ## Folder "cartoon_result"
 
-    For any type of input image, the result of cartoonized image(.png or .gif) will be in the folder.
+    For any type of input image, the result of cartoonized image(png、gif or mp4) will be in the folder.
 
 ## Folder "function"
 
