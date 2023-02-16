@@ -5,15 +5,18 @@
 ## For image(png、gif or mp4)
 
     Step1
+    
         Put the image you want to cartoonize to the folder “image”.
 
     Step2
+    
         Input the command.
         Python cartoonGAN.py --file_name {your image name} -–model_number {choose the appropriate model} --down_size {x for width/x and height/x}
 
         Ex:python cartoonGAN.py --file_name test0.jpg --model_number 0 --down_size 2
 
     Step3
+    
         Go to the folder “cartoon_result”, there is the cartoonized image.
             .png → .png
             .gif → .gif
@@ -27,15 +30,18 @@
 ## For webcam(real time)
 
     Step1
+    
         Connect the USB webcam to your computer.
 
     Step2
+    
         Input the command.
         Python cartoonGAN.py --model_number {choose the appropriate model} --down_size {x for width/x and height/x}
 
         Ex:python cartoonGAN.py --model_number 0 --down_size 1
 
     Step3
+    
         Go to the folder “cartoon_result”, there is the cartoonized image.
             webcam → .gif
         Go to the folder “capture”, there are the cartoonized images.
