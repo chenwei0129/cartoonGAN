@@ -94,3 +94,5 @@
 ## reference
 
     [1]Chen, Y., Lai, Y.K., Liu, Y.J.: CartoonGAN: generative adversarial networks for photo cartoonization. In: Proceedings 31st Meeting of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, United States, pp. 9465–9474 (2018)
+    
+    [2]https://bestanimations.com/Nature/Mountains/Mountains.html
