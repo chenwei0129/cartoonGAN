@@ -14,7 +14,7 @@ parser.add_argument('--down_size', type=int, default=1,
                     help='parameter to down size')
 args = parser.parse_args()
 
-checkpoint_dir = './model_G/'
+checkpoint_dir = './models/'
 
 down_size = args.down_size
 
