@@ -69,7 +69,7 @@
     
     Step1
     
-        Transfer the input gif to many png images in the folder "gif2png/1.
+        Transfer the input gif to many png images in to the folder "gif2png/1.
     
     Step2
     
