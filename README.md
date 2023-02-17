@@ -65,7 +65,7 @@
 * __*cartoonGAN_generator*__
     * The architecture of cartoonGAN is in the folder.
 
-* __*cartoon_png" and "gif2png/1*__
+* __*cartoon_png and gif2png/1*__
     * When you process gif, there are some steps to finish.
 
         > 1. Transfer the input gif to many png images in to the folder "gif2png/1.
