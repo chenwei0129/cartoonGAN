@@ -60,7 +60,7 @@
 
 ## Folder
 * __*capture*__  
-    * When you use USB webcam, you can key in 'c' to capture the image, and it will be in the folder.
+    * When you use USB webcam, you can key in 'c' to capture the image, and it will be there.
 
 * __*cartoonGAN_generator*__
     * The architecture of cartoonGAN is in the folder.
@@ -72,10 +72,10 @@
         3. Transfer the images in "cartoon_png" to a gif, and put it in "cartoon_result".
 
 * __*cartoon_result*__
-    * For any type of input image, the result of cartoonized image(png、gif or mp4) will be in the folder.
+    * For any type of input image, the result of cartoonized image(png、gif or mp4) will be there.
 
 * __*function*__
-    * All program about processing image(png, gif, mp4 and webcam) are in the folder.
+    * Contain all program about processing image(png, gif, mp4 and webcam).
 
 * __*image*__
     * All the input image should be there.
