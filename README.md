@@ -68,9 +68,9 @@
 * __*cartoon_png and gif2png/1*__
     * When you process gif, there are some steps to finish.
 
-        > 1. Transfer the input gif to many png images in to the folder "gif2png/1.
-        > 2. Use cartonGAN to cartoonize the images in "gif2png/1", and put them in the folder "cartoon_png".
-        > 3. Transfer the images in "cartoon_png" to a gif, and put it in "cartoon_result".
+        1. Transfer the input gif to many png images in to the folder "gif2png/1.
+        2. Use cartonGAN to cartoonize the images in "gif2png/1", and put them in the folder "cartoon_png".
+        3. Transfer the images in "cartoon_png" to a gif, and put it in "cartoon_result".
 
 * __*cartoon_result*__
     * For any type of input image, the result of cartoonized image(png、gif or mp4) will be in the folder.
@@ -85,4 +85,3 @@
     [1]Chen, Y., Lai, Y.K., Liu, Y.J.: CartoonGAN: generative adversarial networks for photo cartoonization. In: Proceedings 31st Meeting of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, United States, pp. 9465–9474 (2018)
     
     [2]https://bestanimations.com/Nature/Mountains/Mountains.html
-
