@@ -60,32 +60,25 @@
 
 ## Folder
 * __*capture*__  
-
-    When you use USB webcam, you can key in 'c' to capture the image, and it will be in the folder.
+    * When you use USB webcam, you can key in 'c' to capture the image, and it will be in the folder.
 
 * __*cartoonGAN_generator*__
-    
-    The architecture of cartoonGAN is in the folder.
+    * The architecture of cartoonGAN is in the folder.
 
 * __*cartoon_png and gif2png/1*__
-    
-    When you process gif, there are some steps to finish.
-
+    * When you process gif, there are some steps to finish.
         1. Transfer the input gif to many png images in to the folder "gif2png/1.
         2. Use cartonGAN to cartoonize the images in "gif2png/1", and put them in the folder "cartoon_png".
         3. Transfer the images in "cartoon_png" to a gif, and put it in "cartoon_result".
 
 * __*cartoon_result*__
-    
-    For any type of input image, the result of cartoonized image(png、gif or mp4) will be in the folder.
+    * For any type of input image, the result of cartoonized image(png、gif or mp4) will be in the folder.
 
 * __*function*__
-    
-    All program about processing image(png, gif, mp4 and webcam) are in the folder.
+    * All program about processing image(png, gif, mp4 and webcam) are in the folder.
 
 * __*image*__
-    
-    All the input image should be there.
+    * All the input image should be there.
 
 ## reference
     [1]Chen, Y., Lai, Y.K., Liu, Y.J.: CartoonGAN: generative adversarial networks for photo cartoonization. In: Proceedings 31st Meeting of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, United States, pp. 9465–9474 (2018)
