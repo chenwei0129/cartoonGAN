@@ -1,9 +1,9 @@
 # cartoonGAN
 
 # *This is the cartoonGAN[1] implement, which can cartoonize any image, even webcam(real time), to cartoon style.*
-*ps : The gif in folder "image" is downloaded from [2]*
+*ps : The gif  is downloaded from [2]*
 
-
+![test7](https://user-images.githubusercontent.com/125378013/223898009-cb9b8e0b-3f37-4e3f-93a8-64a53d8af9c9.gif) ![cartoon_test7](https://user-images.githubusercontent.com/125378013/223898032-9bf67e88-9fd9-4516-af1f-eed35bf5d951.gif)
 
 ## For image(png、gif or mp4)
 
